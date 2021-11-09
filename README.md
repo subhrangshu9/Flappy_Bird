@@ -1,7 +1,7 @@
-FlapPyBird
+FLAPPY BIRD
 ===============
 
-A Flappy Bird Clone made using [python-pygame][pygame]
+A Flappy Bird Game made using [python-pygame][pygame]
 
 Setup (as tested on MacOS)
 ---------------------------
