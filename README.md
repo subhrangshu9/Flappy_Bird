@@ -31,7 +31,7 @@ Setup (as tested on MacOS)
 
 1. Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
-(For x64 windows, get exe [here])
+(For x64 windows, get exe [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame))
 
 
 
